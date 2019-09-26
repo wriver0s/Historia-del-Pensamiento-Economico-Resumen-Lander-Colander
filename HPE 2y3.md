@@ -2,35 +2,37 @@
 
 ## Capitulo 2, Pensamiento Económico Pre-Clásico (800 a.C - 1500) (1500-1776)
 
+
+
 ### Generalizaciones
 
 Los individuos no dependían de otros para producir los bienes que consumían, ni dependían de los mercados para adquirirlos, eran autosuficientes. 
-Ya que los mercados eran irrelevantes, prestaron atención al uso de la autoridad como mecanismo de asignación de los recursos.\
-Los autores per-clásicos creían que:\
+Ya que los mercados eran irrelevantes, prestaron atención al uso de la autoridad como mecanismo de asignación de los recursos.
+Los autores per-clásicos creían que:
 
 - No era correcto separar ninguna actividad (ie económica) del resto. 
 - Las cuestiones filosóficas cómo la *justicia y equidad* fueron la base para analizar el comercio y los precios.
 
-### El Pensamiento Económico no occidental\
+### El Pensamiento Económico no occidental
 
 #### Ghuan Zhong (725 - 645 aC)
 
-Escribió sobre la administración pública dentro de modelos *éticos*.\
-*Teoría de lo ligero y lo pesado:* Cuando un bien es abundante, este se vuelve ligero y su precio bajaba. Cuando se "guarda bajo llave", este se vuelve pesado y su precio sube. Había movimientos de entrada y de salida dependiendo de su peso y la tendencia hacia un único precio: *el equilibrio.*\
+Escribió sobre la administración pública dentro de modelos *éticos*.
+*Teoría de lo ligero y lo pesado:* Cuando un bien es abundante, este se vuelve ligero y su precio bajaba. Cuando se "guarda bajo llave", este se vuelve pesado y su precio sube. Había movimientos de entrada y de salida dependiendo de su peso y la tendencia hacia un único precio: *el equilibrio.*
 *Teoría cuantitativa del dinero:* Cuando el dinero era pesado, su precio subía (los precios de los bienes bajaban) y cuando era ligero, su precio bajaba (los precios de los bienes subían)
 
 ### El pensamiento Griego
 
 #### Hesiodo y Jenofonte
 
-Según **Hesiodo** la escasez no se debe a que los deseos de los hombres son ilimitados y los recursos limitados; sino que es uno de los males que salieron de la caja de Pandora.\
+Según **Hesiodo** la escasez no se debe a que los deseos de los hombres son ilimitados y los recursos limitados; sino que es uno de los males que salieron de la caja de Pandora.
 **Hesiodo** estaba interesado en la *eficiencia:* relación entre la cantidad de producción y la cantidad de factores, vista desde el punto de vista de la productividad. También se puede ver desde el punto de vista de costes. Es decir, se maximiza la *eficiencia* cuando se maximiza la producción o se minimizan los costes.\
 **Jenofonte** fue el primero que utilizo el termino economía, referido a la gestión eficiente del productor o del hogar. Llevó el concepto de *eficiencia* hacia el productor, ejercito, administración pública. Comprendió que se podia mejorar la eficiencia practicando *la división del trabajo.*
 
 #### Aristóteles
 
-Influyó en el escolasticismo, particularmente en Santo Tomas de Aquino.\
-**Demócrito** Abogó por la división del trabajo y por la propiedad privada. **Platón** afirmó que la clase gobernante no debía poseer propiedad privada para evitar conflictos.\
+Influyó en el escolasticismo, particularmente en Santo Tomas de Aquino.
+**Demócrito** Abogó por la división del trabajo y por la propiedad privada. **Platón** afirmó que la clase gobernante no debía poseer propiedad privada para evitar conflictos.
 **Aristoteles** creía que la propiedad privada cumplía una función útil y que no se debía limitar. La incoherencia en la que incurrió al condenar la búsqueda del beneficio y defender el derecho a la propiedad privada fue un tema de estudio para los *filósofos morales.*
 Segun Aristoteles, las necesidades de los individuos son moderadas, pero sus deseos son ilimitados, por lo tanto la producción de mercancías para satisfacer las necesidades sea *correcto y natural,* mientras que la producción de estas para satisfacer los deseos ilimitados no sea *natural.* Aristóteles suponía que si un intercambio se realizaba mediante el trueque, este era para satisfacer necesidades naturales y que el uso del dinero indicaba que el objetivo del intercambio era un beneficio monetario, lo cual condenaba. Aristóteles consideraba que el problema de la escasez podía resolverse reduciendo el consumo.
 
@@ -56,13 +58,13 @@ La economía *feudal* se basaba en la agricultura de subsistencia , en una socie
 
 #### Santo Tomás de Aquino
 
-Los escolásticos estudiaron principalmente: la propiedad privada y los conceptos de precio justo y usura. Se trataba de conciliar  las enseñanzas religiosas y la actividad económica.\
+Los escolásticos estudiaron principalmente: la propiedad privada y los conceptos de precio justo y usura. Se trataba de conciliar  las enseñanzas religiosas y la actividad económica.
 STdA fusionó los escritos de Aristóteles y las enseñanzas religiosas. Tuvo que tener en cuenta afirmaciones bíblicas que condenaban la propiedad privada, la riqueza y la búsqueda del beneficio propio. Sostenía que la propiedad privada no era contraria a la ley natural, sino una añadidura que la complementaba. 
 
 > La propiedad privada de todas las cosas... es acorde con la ley natural, a saber, porque la distinción de la propiedad... no fue realizada por la naturaleza, sino ideada por la razón humana en beneficio de la vida humana.\
 
-StdA era partidario de la regulación de la propiedad privada y aceptaba su distribución desigual. También se interesó por el precio de los bienes escasos, centrandose en el aspecto ético  (equidad y justicia).\
-Llegó a la conclusión que cuando se realizan intercambios para satisfacer las necesidades de las partes, no se plantea ninguna cuestión ética. Pero cuando se produce con el fin de obtener un beneficio, solo actúan virtuosamente si sus motivos son beneficiosos y sus precios justos.\
+StdA era partidario de la regulación de la propiedad privada y aceptaba su distribución desigual. También se interesó por el precio de los bienes escasos, centrandose en el aspecto ético  (equidad y justicia).
+Llegó a la conclusión que cuando se realizan intercambios para satisfacer las necesidades de las partes, no se plantea ninguna cuestión ética. Pero cuando se produce con el fin de obtener un beneficio, solo actúan virtuosamente si sus motivos son beneficiosos y sus precios justos.
 El concepto escolástico de *precio justo* es considerado como el coste del trabajo por algunos, otros a la utilidad y otros al coste total de producción. Algunos consideran que el concepto de *precio justo* fue una parte integral del feudalismo ya que si todos los precios del mercado fueran *justos* nadie podría cambiar de estatus social.\
 El concepto escolástico de usura tiene el sentido bíblico y el sentido aristotélico de cobrar *cualquier* tipo de interés. Los escolásticos aceptaron gradualmente el cobro de intereses.
 
@@ -74,7 +76,7 @@ Es obra de comerciantes y está relacionada el interés que estos trataban de pr
 
 #### El poder y la riqueza
 
-El mercantilismo es la reacción intelectual a los problemas de la época. Los mercantilistas trataron de averiguar cuales eran las mejores medidas para aumentar el poder y la riqueza de una nación. Los mercantilistas suponían que la riqueza total del mundo era fija y que el beneficio para ellos era necesariamente la perdida del otro; por lo tanto llegaron a la conclusión que la riqueza y poder de una nación aumenta a expensas de otras, por lo que pusieron énfasis en la balanza comercial entre naciones.\
+El mercantilismo es la reacción intelectual a los problemas de la época. Los mercantilistas trataron de averiguar cuales eran las mejores medidas para aumentar el poder y la riqueza de una nación. Los mercantilistas suponían que la riqueza total del mundo era fija y que el beneficio para ellos era necesariamente la perdida del otro; por lo tanto llegaron a la conclusión que la riqueza y poder de una nación aumenta a expensas de otras, por lo que pusieron énfasis en la balanza comercial entre naciones.
 Según los mercantilistas el objetivo de la actividad económica era la producción y no el consumo.Abogaban aumentar la riqueza fomentando la producción y manteniendo bajo el consumo interior. Por lo tanto, la riqueza de la nación se basaba en la pobreza de la población. Un elevado nivel de producción y un consumo doméstico bajo, permitiría aumentar las exportaciones. Eran partidarios de que los salarios fueran bajos a fin de obtener una ventaja competitiva en el comercio internacional. Creían que unos salarios altos llevarían a reducir el esfuerzo de los trabajadores. *Cuando el objetivo de la actividad económica se define en función del producto nacional y no del consumo nacional, la pobreza del individuo beneficia a la nación*
 
 #### La balanza comercial
@@ -106,7 +108,7 @@ Keynes acepto como correcta su teoría de que el aumento de la cantidad de diner
 
 #### Thomas Mun
 
-Mun afirmaba que la riqueza de Inglaterra era fruto del comercio exterior, medía la riqueza en función de los metales preciosos y por lo tanto abogaba por una balanza comercial favorable, importar materias primas baratas y exportar bienes manufacturados.\
+Mun afirmaba que la riqueza de Inglaterra era fruto del comercio exterior, medía la riqueza en función de los metales preciosos y por lo tanto abogaba por una balanza comercial favorable, importar materias primas baratas y exportar bienes manufacturados.
 Se dio cuenta que aunque era deseable una balanza comercial favorable con todas las naciones, la balanza comercial desfavorable con la India era beneficioso para Inglaterra en el sentido que estas practicas aumentaban su balanza comercial con las otras naciones.
 
 #### William Petty
@@ -121,14 +123,14 @@ Para Mandeville el resultado final de la virtud privada era la depresión econó
 
 #### David Hume
 
-Podía ser considerado un mercantilista liberal, en el sentido que creía que la actividad económica depende de la cantidad de dinero y el nivel general de precios.\
+Podía ser considerado un mercantilista liberal, en el sentido que creía que la actividad económica depende de la cantidad de dinero y el nivel general de precios.
 Según Hume, una economía no podía mantener continuamente una balanza comercial favorable, dado que esta provocaba un aumento en la cantidad de oro y plata. El aumento de la cantidad de dinero provocaba una subida del nivel general de precios de la economía con la balanza favorable. Mientras que otros países tenían que tener una balanza desfavorable, perdían oro y plata, y el nivel general de preciso descendía. Las exportaciones disminuían y las importaciones aumentaban en la economía con la balanza favorable inicial, ya que sus precios eran relativamente más altos que los de otras economías. El efecto era contrario en la economía con la balanza desfavorable inicial. Este proceso acababa provocando una autocorreción de la balanza comercial.
 Hume creía que un aumento gradual de la oferta monetaria provocaba un aumento en la producción. También buscó una conexión entre la libertad económica y la libertad política.
 
 #### Richard Cantillon
 
 Fue mercantilista (por sus ideas sobre el comercio exterior) y en parte fisiocrata-clasico (por su énfasis en la agricultura).
-Su objetivo fue (1) establecer unos principios básicos de economía por medio del razonamiento y (2) recoger datos para verificar sus principios.\
+Su objetivo fue (1) establecer unos principios básicos de economía por medio del razonamiento y (2) recoger datos para verificar sus principios.
 La visión fundamenta de Cantillon fue la de un sistema de mercado que coordinaba las actividades de los productores y consumidores por medio del interés personal.
 
 ### La fisiocracia
@@ -147,8 +149,8 @@ Sostenían que las leyes naturales gobernaban el funcionamiento de la economía 
 
 Observaron la necesidad de construir modelos teóricas aislando las variables económicas clave para estudiarlas.
 Se interesaron por el proceso macroeconómico de desarrollo.
-Los fisiócratas no centraron la atención en el dinero, como los mercantilistas franceses, sino en las fuerzas reales que conducen al desarrollo económico. Llegaron a la conclusión que e el origen de la riqueza estaba en al agricultura, es decir, en la naturaleza.\
-*Producto neto*: consideraban el excedente económico de los bienes que producía la tierra menos los costes reales que necesitaban para producirlos. Segun ellos el trabajo solo podía producir suficientes bienes para pagar los costes laborales y lo mismo ocurría con los demás factores de producción, salvo la tierra. La producción manufacturera y otras actividades económicas no agrícolas se consideraban *estériles*. No centraron la atención en la productividad expresada en valor sino en la productividad física (en el siglo XVIII la industria aun no estaba desarrollada en Francia y su productividad no era evidente para los fisiócratas). Los fisiócratas llegaron a la conclusión de que la renta de la tierra era la medida del *producto neto* de la sociedad.\
+Los fisiócratas no centraron la atención en el dinero, como los mercantilistas franceses, sino en las fuerzas reales que conducen al desarrollo económico. Llegaron a la conclusión que e el origen de la riqueza estaba en al agricultura, es decir, en la naturaleza.
+*Producto neto*: consideraban el excedente económico de los bienes que producía la tierra menos los costes reales que necesitaban para producirlos. Segun ellos el trabajo solo podía producir suficientes bienes para pagar los costes laborales y lo mismo ocurría con los demás factores de producción, salvo la tierra. La producción manufacturera y otras actividades económicas no agrícolas se consideraban *estériles*. No centraron la atención en la productividad expresada en valor sino en la productividad física (en el siglo XVIII la industria aun no estaba desarrollada en Francia y su productividad no era evidente para los fisiócratas). Los fisiócratas llegaron a la conclusión de que la renta de la tierra era la medida del *producto neto* de la sociedad.
 El *tableau Economique* era una presentación del flujo de rentas monetarias entre los distintos sectores de la economía y de la creación y circulación anual del producto neto.
 
 #### La politica económica fisiocrata
@@ -161,7 +163,7 @@ Los fisiocratas pensaban que existía un orden natural superior a cualquier dise
 La entrada de oro y plata proveniente de las Americas, provoco una subida de los niveles de precios en España.
 **Azpilcueta** demostró tener un conocimiento de lo que se llama teoría cuantitativa, que explica que el factor clave que altera el nivel general de precios es la cantidad de dinero en circulación.
 
-> ...La causa es que el dinero vale más donde y cuando falta que donde y cuando es abundante...\
-> Se dio cuenta que la subida que estaba experimentando el nivel de precios en España era producto de las entradas de oro y plata.\
-> **Luis de Molina**, sostenía que antes de hacer juicios éticos sobre cualquier mercado era necesario comprender como funcionaba en realidad. Describió las leyes de demanda y oferta.\
+> ...La causa es que el dinero vale más donde y cuando falta que donde y cuando es abundante...
+> Se dio cuenta que la subida que estaba experimentando el nivel de precios en España era producto de las entradas de oro y plata.
+> **Luis de Molina**, sostenía que antes de hacer juicios éticos sobre cualquier mercado era necesario comprender como funcionaba en realidad. Describió las leyes de demanda y oferta.
 > **Pedro Rodriguez**, aceptó la idea de que la entrada de oro y plata hicieron subir el nivel de precios y llego a la conclusión de que eso tuvo funestas consecuencias para la economía española, dado que era mas barato importar los bienes de Francia e Inglaterra, la capacidad productiva de España no se había desarrollado tanto como en el resto de Europa. Campomanes era partidario de que hubiera mayor libertad en el comercio exterior.
